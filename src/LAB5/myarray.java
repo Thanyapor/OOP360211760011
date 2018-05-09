@@ -2,7 +2,7 @@ package lab5;
 
 import java.util.Scanner;
 
-public class myArray {
+public class myarray {
     public static void main(String[] args) {
         // array
 
