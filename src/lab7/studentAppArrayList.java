@@ -17,7 +17,7 @@ public class studentAppArrayList {
 
     private static void showData(ArrayList<Student> myList) {
         for (int i = 0;i< myList.size();i++){
-            System.out.println("Sutdent info "+(i+1)+" : ");
+            System.out.println("Student info "+(i+1)+" : ");
             System.out.println("Name: "+myList.get(i).getName());
             System.out.println("Age: "+myList.get(i).getAge());
             System.out.println("Gender: "+myList.get(i).getGender());
